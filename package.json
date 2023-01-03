@@ -16,5 +16,8 @@
     "url": "https://github.com/HYUKSKEE/socket.io_narangnolja/issues"
   },
   "homepage": "https://github.com/HYUKSKEE/socket.io_narangnolja#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
