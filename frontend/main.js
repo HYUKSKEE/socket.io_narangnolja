@@ -15,6 +15,4 @@ socket.emit(name, `${name} : ${msg}`, (response) => {
   h.append(
     "<div>" + response + " : from <strong>" + response + "</strong></div>"
   );
-
-  //socket.on(name, function (data) {});
 });
